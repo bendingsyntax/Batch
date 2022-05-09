@@ -1,4 +1,4 @@
-::This batch file was written by Daniel De Jesus
+::This batch file was written by Bendingsyntax
 ::Verson 1.8
 
 @echo off
